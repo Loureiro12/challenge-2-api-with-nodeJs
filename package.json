@@ -1,0 +1,29 @@
+{
+  "name": "challenge-2-api-with-nodejs",
+  "version": "1.0.0",
+  "description": "### Regras da aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loureiro12/challenge-2-api-with-nodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loureiro12/challenge-2-api-with-nodeJs/issues"
+  },
+  "homepage": "https://github.com/Loureiro12/challenge-2-api-with-nodeJs#readme",
+  "dependencies": {
+    "fastify": "^4.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4"
+  }
+}
